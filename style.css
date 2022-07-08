@@ -72,7 +72,7 @@ body{
 
 .carousel-item img{
     width: 100%;
-    min-height: 100vh !important;
+    max-height: 800px;
 }
 
 .main{
